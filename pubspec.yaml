@@ -2,17 +2,17 @@ name: json2yaml
 description: |-
   Dart package to render JSON data to YAML with built-in automatic beautifier and
   support for Dart pubspec.yaml and pubspec.lock conventions
-version: 3.0.1
+version: 3.0.2
 homepage: https://github.com/alexei-sintotski/json2yaml
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: '>=2.12.0 <4.0.0'
 
 dependencies:
   meta: ^1.7.0
 
 dev_dependencies:
-  dependency_validator: ^3.1.0
-  lints: ^2.0.1
+  dependency_validator: ^4.0.0
+  lints: '>=2.0.1 <6.0.0'
   test: ^1.19.0
   yaml: ^3.1.0

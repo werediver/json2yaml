@@ -1,3 +1,6 @@
+## [3.0.2] - Update dependencies
+* Support Dart SDK v3.x.x
+
 ## [3.0.1] - Fixing cases that requires quotes in pubspecLock
 * Added two more cases that requires quotes in pubspecLock files
 * Removed deprecated lint rule (invariant_booleans)
